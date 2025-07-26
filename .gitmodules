@@ -7,3 +7,6 @@
 [submodule "extension/new-folder-name"]
 	path = extension/new-folder-name
 	url = https://github.com/moreWax/candle-whisper-wasm.git
+[submodule "stt-ext/correct-folder-name"]
+	path = stt-ext/correct-folder-name
+	url = https://github.com/moreWax/candle-whisper-wasm.git
